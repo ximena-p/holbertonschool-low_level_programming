@@ -22,6 +22,11 @@ void print_to_98(int n);
 /* print sign for each number */
 int print_sign(int n);
 
+/* redondear numbers */
+int _abs(int a);
+
+/* table nine */
+void times_table(void);
 
 
 
