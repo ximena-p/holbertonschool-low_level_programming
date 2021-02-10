@@ -16,6 +16,9 @@ int _islower(int c);
 /* check alphabetic character */
 int _isalpha(int c);
 
+/* print all numbers minor or major to 98 */
+void print_to_98(int n);
+
 
 
 
