@@ -7,6 +7,10 @@ int _putchar(char c);
 /*print alphabeth */
 void print_alphabet(void);
 
+/* print alphabet 10 times */
+void print_alphabet_x10(void);
+
+
 
 
 #endif
