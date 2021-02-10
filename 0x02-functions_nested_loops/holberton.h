@@ -19,6 +19,9 @@ int _isalpha(int c);
 /* print all numbers minor or major to 98 */
 void print_to_98(int n);
 
+/* print sign for each number */
+int print_sign(int n);
+
 
 
 
